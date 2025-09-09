@@ -367,7 +367,7 @@ export default function StudentsPage() {
                 <SelectValue placeholder="All Classes" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="">All Classes</SelectItem>
+                <SelectItem value="all">All Classes</SelectItem>
                 <SelectItem value="12">Class 12</SelectItem>
                 <SelectItem value="11">Class 11</SelectItem>
                 <SelectItem value="10">Class 10</SelectItem>
